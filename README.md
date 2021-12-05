@@ -16,7 +16,7 @@
   <img align="center" alt="Thiago-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
   
-
+   ##
    
  <div> 
    <a href = "mailto:thiagosantosilva.2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
